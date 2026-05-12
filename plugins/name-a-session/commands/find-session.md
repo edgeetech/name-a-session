@@ -1,6 +1,6 @@
 ---
-description: Search saved Claude sessions by name (substring match, case-insensitive)
-argument-hint: <query>
+description: Search saved Claude sessions by name or folder (substring, case-insensitive). Omit query to list all.
+argument-hint: [query]
 allowed-tools: Bash(python:*)
 ---
 

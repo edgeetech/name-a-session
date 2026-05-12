@@ -1,6 +1,6 @@
 {
   "name": "name-a-session",
-  "version": "0.1.0",
+  "version": "0.3.4",
   "description": "Label the active Claude Code session with a human-readable name and search past sessions by that name, all from the CLI without needing Claude Desktop.",
   "author": { "name": "Ahmet Selcuk OZYURT | EdgeeTech" }
 }
